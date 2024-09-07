@@ -1,4 +1,4 @@
-var posts=["posts/6e18.html","posts/d593.html","posts/813f.html"];function toRandomPost(){
+var posts=["posts/4b39.html","posts/6e18.html","posts/d593.html","posts/813f.html"];function toRandomPost(){
     pjax.loadUrl('/'+posts[Math.floor(Math.random() * posts.length)]);
   };var friend_link_list=[{"name":"安知鱼","link":"https://blog.anheyu.com/","avatar":"https://npm.elemecdn.com/anzhiyu-blog-static@1.0.4/img/avatar.jpg","descr":"生活明朗，万物可爱","siteshot":"https://npm.elemecdn.com/anzhiyu-theme-static@1.1.6/img/blog.anheyu.com.jpg","color":"vip","tag":"技术"},{"name":"张洪Heo","link":"https://blog.zhheo.com/","avatar":"https://pic.imgdb.cn/item/66cfe7a4d9c307b7e97f5023.jpg","descr":"分享设计与科技生活","siteshot":"https://pic.imgdb.cn/item/66cfe7d7d9c307b7e97f76de.png","color":"vip","tag":"技术"},{"name":"国光","link":"https://www.sqlsec.com/","avatar":"https://pic.imgdb.cn/item/66da93dad9c307b7e9e78c30.jpg","descr":"分享与收获","siteshot":"https://pic.imgdb.cn/item/66daccf6d9c307b7e939f488.png","color":"speed","tag":"网络安全"}];
     var refreshNum = 1;
