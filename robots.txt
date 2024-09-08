@@ -3,3 +3,4 @@ Disallow: /about
 Disallow: /link
 Disallow: /essay
 Disallow: /records
+Disallow: /air-conditioner
